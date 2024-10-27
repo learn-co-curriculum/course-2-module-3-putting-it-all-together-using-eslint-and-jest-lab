@@ -20,7 +20,7 @@ As a junior developer at a software company, you are tasked with maintaining and
 
 1. **Fork and Clone the Repository:**
 
-- Go to the GitHub repository (https://github.com/learn-co-curriculum/phase-0-js-testing-putting-it-all-together-lab.git)
+- Go to the GitHub repository (https://github.com/learn-co-curriculum/course-2-module-3-putting-it-all-together-using-eslint-and-jest-lab)
 - Fork the repository to your GitHub account.
 - Clone the forked repository to your local machine.
 - Navigate to the project directory and run `npm install` to install the necessary dependencies.
