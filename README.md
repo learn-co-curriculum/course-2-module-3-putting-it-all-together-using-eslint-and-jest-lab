@@ -20,40 +20,40 @@ As a junior developer at a software company, you are tasked with maintaining and
 
 1. **Fork and Clone the Repository:**
 
-- Go to the GitHub repository (https://github.com/learn-co-curriculum/course-2-module-3-putting-it-all-together-using-eslint-and-jest-lab)
-- Fork the repository to your GitHub account.
-- Clone the forked repository to your local machine.
-- Navigate to the project directory and run `npm install` to install the necessary dependencies.
+   - Go to the GitHub repository (https://github.com/learn-co-curriculum/course-2-module-3-putting-it-all-together-using-eslint-and-jest-lab)
+   - Fork the repository to your GitHub account.
+   - Clone the forked repository to your local machine.
+   - Navigate to the project directory and run `npm install` to install the necessary dependencies.
 
 2. **Define Project Needs and Goals**
 
-- Identify that the project uses JavaScript and the primary goals are code quality and testing.
-- Consider the size and complexity of the project, noting it involves static analysis (ESLint) and testing (Jest).
+   - Identify that the project uses JavaScript and the primary goals are code quality and testing.
+   - Consider the size and complexity of the project, noting it involves static analysis (ESLint) and testing (Jest).
 
 3. **Fix Code Errors with ESLint:**
 
-- Open `index.js` in your code editor.
-- Use ESLint to identify and fix any code errors.
-  - Run `npx eslint index.js` to check for errors.
-  - Fix all identified errors in `index.js`.
+   - Open `index.js` in your code editor.
+   - Use ESLint to identify and fix any code errors.
+     - Run `npx eslint index.js` to check for errors.
+     - Fix all identified errors in `index.js`.
 
 4. **Complete the Test File:**
 
-- Open `test/index.test.js` in your code editor.
-- Review the existing tests and identify the missing sections.
-- Write the missing test cases to ensure all functions in `index.js` are properly tested.
-- Ensure the test cases cover various scenarios and edge cases for comprehensive testing.
+   - Open `test/index.test.js` in your code editor.
+   - Review the existing tests and identify the missing sections.
+   - Write the missing test cases to ensure all functions in `index.js` are properly tested.
+   - Ensure the test cases cover various scenarios and edge cases for comprehensive testing.
 
 5. **Run and Monitor Tests with Jest:**
 
-- Once you have fixed the errors in `index.js` and completed the test cases in `index.test.js`, run the tests using Jest.
-  - Run `npm test` to execute all test cases.
-- Ensure that all tests pass successfully.
+   - Once you have fixed the errors in `index.js` and completed the test cases in `index.test.js`, run the tests using Jest.
+     - Run `npm test` to execute all test cases.
+   - Ensure that all tests pass successfully.
 
 6. **Refine and Ensure All Tests Pass**
 
-- Continue refining the code and tests until all errors are resolved and all tests pass successfully.
-- If necessary, re-run ESLint and Jest to confirm no further issues remain.
+   - Continue refining the code and tests until all errors are resolved and all tests pass successfully.
+   - If necessary, re-run ESLint and Jest to confirm no further issues remain.
 
 **Submission and Grading Criteria:**
 
